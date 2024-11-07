@@ -7,8 +7,7 @@
 - hongham
 - pgw2001
 - ye1rm
-- feature/pgh
 - cobas67
 - DriedSlime
 - ho8ae
-- DriedSlime
+- pgw2001
