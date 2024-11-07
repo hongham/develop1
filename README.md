@@ -5,7 +5,8 @@
 제 github 아이디는
 
 - hongham
-- feature/pgh
+- pgw2001
+- ye1rm
 - cobas67
 - DriedSlime
 - ho8ae
